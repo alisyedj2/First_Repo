@@ -1,0 +1,40 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color: turquoise;
+}
+
+.info{
+   display: flex;
+   justify-content: center;
+}
+.me{
+    color: white;
+}
+.projects
+{
+    display: flex;
+}
+.project
+{
+    width: 200px;
+    height: 200px;
+}
+.navbar
+{
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color: black;
+    color: white;
+    display: flex;
+    /* width: 30%;; */
+    height: 40px;
+    justify-content:space-between;
+}
+li
+{
+    border-radius: 20%;
+    font-size: 20px;
+    align-self: center;
+    list-style-type:none;
+}
